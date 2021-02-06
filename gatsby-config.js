@@ -1,6 +1,5 @@
 module.exports = {
-  siteMetadata: {
-    title: "bookmark-app",
-  },
-  plugins: [],
-};
+  plugins: [
+      "gatsby-plugin-typescript"
+  ]
+}
